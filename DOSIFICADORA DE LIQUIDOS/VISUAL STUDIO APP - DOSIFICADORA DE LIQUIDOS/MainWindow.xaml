@@ -1,0 +1,188 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:APPDOSIFICADORA"
+        xmlns:Properties="clr-namespace:APPDOSIFICADORA.Properties" x:Class="APPDOSIFICADORA.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1024" 
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        WindowStartupLocation="CenterScreen" Icon="gota-de-agua.ico" Initialized="Window_Initialized">
+
+    <Grid>
+        <Grid>
+            <Border CornerRadius="25" BorderBrush="#FFB66A47" BorderThickness="4">
+                <Border.Background>
+
+                    <LinearGradientBrush>
+                        <GradientStop Color="#FF82AEAE" Offset="0.0"/>
+                        <GradientStop Color="#FF1D6666" Offset="1"/>
+                    </LinearGradientBrush>
+
+                </Border.Background>
+
+                <!--REGION Nivel de Tanques y T/envase -->
+                <Grid x:Name="Tanques" Height="324" VerticalAlignment="Bottom">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="256"/>
+                        <ColumnDefinition Width="256"/>
+                        <ColumnDefinition/>
+
+                    </Grid.ColumnDefinitions>
+
+                    <Ellipse Grid.Column="0" Height="200" Width="200" Fill="LightGray" Stroke="#FFB66A47" StrokeThickness="5" Margin="0,60,0,0" />
+                    <Border Grid.Column="0" CornerRadius="15" BorderBrush="#FFB66A47" BorderThickness="4" Width="236" Height="304"  />
+                    <Label Grid.Column="0" Content="Nivel de Tanque 1" Width="210" Height="50" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="22" FontWeight="Bold" Margin="8,-200,0,0" />
+                    <Label x:Name="Nivel_1" Grid.Column="0" Content="000.00" Width="120" Height="50" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="24" FontWeight="Bold" Margin="0,60,0,0" />
+
+                    <Ellipse Grid.Column="1" Height="200" Width="200" Fill="LightGray" Stroke="#FFB66A47" StrokeThickness="5" Margin="0,60,0,0"/>
+                    <Border Grid.Column="1" CornerRadius="15" BorderBrush="#FFB66A47" BorderThickness="4"  Width="236" Height="304" />
+                    <Label Grid.Column="1" Content="Nivel de Tanque 2" Width="210" Height="50" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="22" FontWeight="Bold" Margin="8,-200,0,0" />
+                    <Label x:Name="Nivel_2" Grid.Column="1" Content="000.00" Width="120" Height="50" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="24" FontWeight="Bold" Margin="0,60,0,0" />
+
+                    <Label Grid.Column="2" Content="Tamaño de envase (ml):" Width="240" Height="40" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="20" FontWeight="Bold" Margin="0,-206,240,0"/>
+                    <ComboBox Grid.Column="2" Width="200" Height="40" Margin="220,-210,0,0" FontSize="18">
+                        <ComboBoxItem Content="250"/>
+                        <ComboBoxItem Content="500"/>
+                        <ComboBoxItem Content="1000"/>
+                        <ComboBoxItem Content="1500"/>
+                        <ComboBoxItem Content="Otro"/>
+
+                    </ComboBox>
+
+
+
+                </Grid>
+                <!--#ENDREGION-->
+
+
+
+            </Border>
+
+            <!--Header-->
+            <Grid x:Name="Header" Height="60" VerticalAlignment="Top">
+                <Border CornerRadius="25,25,0,0" Background="#FFB66A47"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="75"/>
+                        <ColumnDefinition Width="75"/>
+
+
+                    </Grid.ColumnDefinitions>
+                    <!--REGION Titulo-->
+                    <Image Source="/Recursos/IMG/gota-de-agua.ico" Margin="10,8,0,12" Height="40" HorizontalAlignment="Left" />
+                    <Label Content="DOSIFICADORA" HorizontalAlignment="Left" Height="40" Margin="49,5,0,0" VerticalAlignment="Top" Width="302" FontFamily="Comic Sans MS" FontSize="25" FontWeight="Bold"/>
+                    <!--#ENDREGION-->
+
+
+
+                    <!--REGION Boton Cerrar-->
+                    <Button x:Name="Cerrar" Grid.Column="3" Background="Transparent" BorderBrush="Transparent" VerticalAlignment="Center" Cursor="Hand" Margin="20,6,10,6" Click="Close" >
+
+                        <Image Source="/Recursos/IMG/times-circle-regular.png" Height="45"/>
+
+                    </Button>
+                    <!--#ENDREGION-->
+
+                    <!--REGION Boton Minimizar-->
+                    <Button Grid.Column="2" Background="Transparent" BorderBrush="Transparent" VerticalAlignment="Center" Cursor="Hand" Margin="33,10,0,10" Click="Min"  >
+
+                        <Image Source="/Recursos/IMG/compress-arrows-alt-solid.png" Height="36" HorizontalAlignment="Right" Width="65"/>
+                    </Button>
+
+                    <Label Grid.Column="1" Name="Label_ip" Content="" Height="60" FontFamily="Comic Sans MS" FontSize="18" Margin="10,12,35,-12" Foreground="#FF817B7B" Grid.ColumnSpan="2"/>
+
+
+
+                </Grid>
+
+
+
+            </Grid>
+
+
+
+        </Grid>
+
+        <Label Content="Parámetros de Dosificación" Width="330" Height="50" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="24" FontWeight="Bold" Margin="0,-560,0,0" />
+        <Grid HorizontalAlignment="Left" Height="290" Margin="0,100,0,0" VerticalAlignment="Top" Width="1024">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+
+
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0" CornerRadius="15" BorderBrush="#FFB66A47" BorderThickness="4" Width="490" Height="290"  Margin="10,0,0,0"/>
+            <Label Grid.Column="0" Content="Seleccione Liquido A:" Width="230" Height="40" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="20" FontWeight="Bold" Margin="0,-150,200,0"/>
+            <ComboBox x:Name="textname1" Grid.Column="0" Width="200" Height="40" Margin="276,50,36,200" FontSize="18" />
+            <Label Grid.Column="0" Content="Velocidad (0-255):" Width="230" Height="40" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="20" FontWeight="Bold" Margin="0,0,200,0"/>
+            <TextBox x:Name="velocidadb1" Grid.Column="0" Width="200" Height="40" Margin="276,0,36,0" FontSize="18"/>
+
+            <Label Grid.Column="0" Content="Volumen (ml):" Width="230" Height="40" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="20" FontWeight="Bold" Margin="0,+150,200,0"/>
+            <TextBox x:Name="volumen_a" Grid.Column="0" Width="200" Height="40" Margin="276,150,36,0" FontSize="18"/>
+
+            <Border Grid.Column="1" CornerRadius="15" BorderBrush="#FFB66A47" BorderThickness="4" Width="490" Height="290"  Margin="-5,0,0,0"/>
+            <Label Grid.Column="1" Content="Seleccione Liquido B:" Width="230" Height="40" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="20" FontWeight="Bold" Margin="0,-150,210,0"/>
+            <ComboBox Grid.Column="1" Width="200" Height="40" Margin="266,50,46,200" FontSize="18" />
+            <Label Grid.Column="1" Content="Velocidad (0-255):" Width="230" Height="40" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="20" FontWeight="Bold" Margin="0,0,200,0"/>
+            <TextBox x:Name="velocidadb2" Grid.Column="1" Width="200" Height="40" Margin="266,0,46,0" FontSize="18"/>
+
+            <Label Grid.Column="1" Content="Volumen (ml):" Width="230" Height="40" Grid.Row="1" FontFamily="Comic Sans MS" FontSize="20" FontWeight="Bold" Margin="0,+150,200,0"/>
+            <TextBox x:Name="volumen_b" Grid.Column="1" Width="200" Height="40" Margin="266,150,46,0" FontSize="18"/>
+        </Grid>
+
+        <Grid HorizontalAlignment="Left" Height="240" Margin="512,0,0,0" VerticalAlignment="Bottom" Width="512">
+
+            <!--REGION Boton Subir-->
+            <Button x:Name="subir" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" VerticalAlignment="Center" Cursor="Hand" Margin="0,-120,0,0" Width="80" Height="80" Click="subir_Click" >
+
+                <Image Source="/Recursos/IMG/arrow-alt-circle-up-solid.png" Height="60" HorizontalAlignment="Right" Width="60"/>
+
+            </Button>
+            <!--#ENDREGION-->
+            <!--REGION Boton Bajar-->
+            <Button x:Name="bajar" Grid.Column="0" Background="Transparent" BorderBrush="Transparent" VerticalAlignment="Center" Cursor="Hand" Margin="0,120,0,0" Width="80" Height="80" Click="bajar_Click" >
+
+                <Image Source="/Recursos/IMG/arrow-circle-down-solid.png" Height="60" HorizontalAlignment="Right" Width="60"/>
+
+            </Button>
+            <!--#ENDREGION-->
+
+            <!--REGION Boton Comenzar-->
+            <Button x:Name="comenzar" Grid.Column="1" Background="Transparent" BorderBrush="Transparent" VerticalAlignment="Center" Cursor="Hand" Margin="150,0,0,0" Width="80" Height="80" Click="comenzar_Click" >
+
+                <Image Source="/Recursos/IMG/google-play-brands.png" Height="60" HorizontalAlignment="Right" Width="60"/>
+
+            </Button>
+            <!--#ENDREGION-->
+
+            <!--REGION Boton Detener-->
+            <Button x:Name="detener" Grid.Column="1" Background="Transparent" BorderBrush="Transparent" VerticalAlignment="Center" Cursor="Hand" Margin="-150,0,0,0" Width="80" Height="80" Click="detener_Click" >
+
+                <Image Source="/Recursos/IMG/stop-circle-solid.png" Height="60" HorizontalAlignment="Right" Width="60"/>
+
+            </Button>
+            <!--#ENDREGION-->
+
+
+
+        </Grid>
+
+
+
+
+    </Grid>
+
+
+
+
+
+
+</Window>

@@ -1,0 +1,169 @@
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\bin\Debug\APPDOSIFICADORA.exe.config
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\bin\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\bin\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\MainWindow.g.cs
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\App.g.cs
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA_MarkupCompile.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA_MarkupCompile.lref
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\MainWindow.baml
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.g.resources
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.Properties.Resources.resources
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.csproj.GenerateResource.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.csproj.CoreCompileInputs.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.csproj.AssemblyReference.cache
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.csproj.AssemblyReference.cache
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\MainWindow.g.cs
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\App.g.cs
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA_MarkupCompile.cache
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA_MarkupCompile.lref
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\MainWindow.baml
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.g.resources
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Pictures\APPDOSIFICADORA\bin\Debug\APPDOSIFICADORA.exe.config
+C:\Users\coron\Pictures\APPDOSIFICADORA\bin\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Pictures\APPDOSIFICADORA\bin\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.Properties.Resources.resources
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.csproj.GenerateResource.cache
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.csproj.CoreCompileInputs.cache
+C:\Users\coron\Pictures\APPDOSIFICADORA\obj\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\bin\Debug\APPDOSIFICADORA.exe.config
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\bin\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\bin\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\APPDOSIFICADORA.csproj.AssemblyReference.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\MainWindow.g.cs
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\App.g.cs
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.lref
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\MainWindow.baml
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\APPDOSIFICADORA.g.resources
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\APPDOSIFICADORA.Properties.Resources.resources
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\APPDOSIFICADORA.csproj.GenerateResource.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\APPDOSIFICADORA.csproj.CoreCompileInputs.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - trabajando\obj\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.exe.config
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\MainWindow.g.cs
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\App.g.cs
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.lref
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\MainWindow.baml
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.g.resources
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.Properties.Resources.resources
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.GenerateResource.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.CoreCompileInputs.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\APPDOSI\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.AssemblyReference.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.exe.config
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.AssemblyReference.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\MainWindow.g.cs
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\App.g.cs
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.lref
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\MainWindow.baml
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.g.resources
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.Properties.Resources.resources
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.GenerateResource.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.CoreCompileInputs.cache
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\APPDOSI_1\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.exe.config
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.AssemblyReference.cache
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\MainWindow.g.cs
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\App.g.cs
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.cache
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.lref
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\MainWindow.baml
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.g.resources
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.Properties.Resources.resources
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.GenerateResource.cache
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.CoreCompileInputs.cache
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\Window2.g.cs
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - con libreria de liquidos y velocidades\APPDOSIFICADORA - V1 - trabajando\obj\Debug\Window2.baml
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.exe.config
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.AssemblyReference.cache
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\MainWindow.g.cs
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\Window2.g.cs
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\App.g.cs
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.cache
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.lref
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\MainWindow.baml
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\Window2.baml
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.g.resources
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.Properties.Resources.resources
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.GenerateResource.cache
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.CoreCompileInputs.cache
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\2023\APPDOSI_2023_2 - configuracion de liquidos\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.exe.config
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\bin\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.AssemblyReference.cache
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\MainWindow.g.cs
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\App.g.cs
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.cache
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA_MarkupCompile.lref
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\MainWindow.baml
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.g.resources
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.Properties.Resources.resources
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.GenerateResource.cache
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.csproj.CoreCompileInputs.cache
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\Proyecto\sketch_nov02a\APPDOSIFICADORA - V1 - trabajando\obj\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Desktop\2nov\bin\Debug\APPDOSIFICADORA.exe.config
+C:\Users\coron\Desktop\2nov\bin\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Desktop\2nov\bin\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Desktop\2nov\obj\Debug\APPDOSIFICADORA.csproj.AssemblyReference.cache
+C:\Users\coron\Desktop\2nov\obj\Debug\MainWindow.g.cs
+C:\Users\coron\Desktop\2nov\obj\Debug\App.g.cs
+C:\Users\coron\Desktop\2nov\obj\Debug\APPDOSIFICADORA_MarkupCompile.cache
+C:\Users\coron\Desktop\2nov\obj\Debug\APPDOSIFICADORA_MarkupCompile.lref
+C:\Users\coron\Desktop\2nov\obj\Debug\MainWindow.baml
+C:\Users\coron\Desktop\2nov\obj\Debug\APPDOSIFICADORA.g.resources
+C:\Users\coron\Desktop\2nov\obj\Debug\APPDOSIFICADORA.Properties.Resources.resources
+C:\Users\coron\Desktop\2nov\obj\Debug\APPDOSIFICADORA.csproj.GenerateResource.cache
+C:\Users\coron\Desktop\2nov\obj\Debug\APPDOSIFICADORA.csproj.CoreCompileInputs.cache
+C:\Users\coron\Desktop\2nov\obj\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Desktop\2nov\obj\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\bin\Debug\APPDOSIFICADORA.exe.config
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\bin\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\bin\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\APPDOSIFICADORA.csproj.AssemblyReference.cache
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\MainWindow.g.cs
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\App.g.cs
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\APPDOSIFICADORA_MarkupCompile.cache
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\APPDOSIFICADORA_MarkupCompile.lref
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\MainWindow.baml
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\APPDOSIFICADORA.g.resources
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\APPDOSIFICADORA.Properties.Resources.resources
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\APPDOSIFICADORA.csproj.GenerateResource.cache
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\APPDOSIFICADORA.csproj.CoreCompileInputs.cache
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\2024\NOV 2024\2nov - V2\obj\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\bin\Debug\APPDOSIFICADORA.exe.config
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\bin\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\bin\Debug\APPDOSIFICADORA.pdb
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\APPDOSIFICADORA.csproj.AssemblyReference.cache
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\MainWindow.g.cs
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\App.g.cs
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\APPDOSIFICADORA_MarkupCompile.cache
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\APPDOSIFICADORA_MarkupCompile.lref
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\MainWindow.baml
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\APPDOSIFICADORA.g.resources
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\APPDOSIFICADORA.Properties.Resources.resources
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\APPDOSIFICADORA.csproj.GenerateResource.cache
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\APPDOSIFICADORA.csproj.CoreCompileInputs.cache
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\APPDOSIFICADORA.exe
+C:\Users\coron\Documents\2024\NOV 2024\15-12 - intento activar motores con us3\obj\Debug\APPDOSIFICADORA.pdb
